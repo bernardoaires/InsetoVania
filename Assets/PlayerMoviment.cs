@@ -7,7 +7,7 @@ public class PlayerMoviment : MonoBehaviour
 {
     public CharacterController2D controller;
     float horizontalMove = 0f;
-    public float runSpeed = 1f;
+    public float runSpeed = 40f;
     bool isJumping = false;
 
     // Update is called once per frame
@@ -22,8 +22,7 @@ public class PlayerMoviment : MonoBehaviour
     }
 
     void FixedUpdate() {
-
-        controller.Move(horizontalMove, false, isJumping);
+        controller.Move(horizontalMove * Time.fixedDeltaTime, false, isJumping);
         isJumping = false;
     }
 }

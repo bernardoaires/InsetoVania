@@ -262,6 +262,7 @@ GameObject:
   - component: {fileID: 775728546}
   - component: {fileID: 775728545}
   - component: {fileID: 775728547}
+  - component: {fileID: 775728548}
   m_Layer: 3
   m_Name: Player_Knight
   m_TagString: Untagged
@@ -486,7 +487,28 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   controller: {fileID: 775728541}
-  runSpeed: 1.3
+  runSpeed: 40
+--- !u!95 &775728548
+Animator:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 775728540}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 52c43661be3ef984dae458ec9a501ef1, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1 &946682530
 GameObject:
   m_ObjectHideFlags: 0
