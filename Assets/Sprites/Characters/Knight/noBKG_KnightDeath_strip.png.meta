@@ -34,7 +34,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -43,12 +43,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
-  spriteMeshType: 1
+  spriteMeshType: 0
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 32
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -69,10 +69,10 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 2048
+    maxTextureSize: 4096
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -108,7 +108,322 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: noBKG_KnightDeath_strip_0
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 20
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbefab6b37820a04c9805a084c1e8384
+      internalID: -912559838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noBKG_KnightDeath_strip_1
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 20
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 523d23d7f8bed1947ba9f66b5f371d14
+      internalID: -1745041320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noBKG_KnightDeath_strip_2
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 20
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22886046c55052c4486a7cab4ade238b
+      internalID: 1259334022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noBKG_KnightDeath_strip_3
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 20
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93cc5f823420dc7449dbd2c05649e006
+      internalID: 437496407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noBKG_KnightDeath_strip_4
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 20
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bb8917f88d71e941bca9a438d66feff
+      internalID: 2119352603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noBKG_KnightDeath_strip_5
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 20
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c91619e312ab2c468f67301d374a9fd
+      internalID: -900103656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noBKG_KnightDeath_strip_6
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 20
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 709c53ce979c9b540984f4a7326d9bf5
+      internalID: 583750273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noBKG_KnightDeath_strip_7
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 20
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74af3bf67a35ac74eb02074cff010e49
+      internalID: -380907659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noBKG_KnightDeath_strip_8
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 20
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60e5bfeed759f7443b7c97ed3eaf0f6e
+      internalID: 278271671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noBKG_KnightDeath_strip_9
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 20
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51065d1d0df7e204086451649bace664
+      internalID: -841212208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noBKG_KnightDeath_strip_10
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 20
+        width: 29
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff272d8b887ddd34fbb08ef902b9d2fd
+      internalID: 262295968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noBKG_KnightDeath_strip_11
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 20
+        width: 28
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a0201fbabdbbf145a8cffebf924b8ff
+      internalID: 1987662100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noBKG_KnightDeath_strip_12
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 20
+        width: 28
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9394db1cf93e8346a34f621fba2b833
+      internalID: -1710436721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noBKG_KnightDeath_strip_13
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 20
+        width: 28
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 381be77fcdea8cf4ea0718a40a4dc707
+      internalID: 1830687613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noBKG_KnightDeath_strip_14
+      rect:
+        serializedVersion: 2
+        x: 1382
+        y: 20
+        width: 28
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d229602d8af54a4a9de803c739c7e89
+      internalID: 153497865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -119,7 +434,22 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      noBKG_KnightDeath_strip_0: -912559838
+      noBKG_KnightDeath_strip_1: -1745041320
+      noBKG_KnightDeath_strip_10: 262295968
+      noBKG_KnightDeath_strip_11: 1987662100
+      noBKG_KnightDeath_strip_12: -1710436721
+      noBKG_KnightDeath_strip_13: 1830687613
+      noBKG_KnightDeath_strip_14: 153497865
+      noBKG_KnightDeath_strip_2: 1259334022
+      noBKG_KnightDeath_strip_3: 437496407
+      noBKG_KnightDeath_strip_4: 2119352603
+      noBKG_KnightDeath_strip_5: -900103656
+      noBKG_KnightDeath_strip_6: 583750273
+      noBKG_KnightDeath_strip_7: -380907659
+      noBKG_KnightDeath_strip_8: 278271671
+      noBKG_KnightDeath_strip_9: -841212208
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
